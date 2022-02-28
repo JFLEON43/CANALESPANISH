@@ -1,4 +1,4 @@
--logo="" group-title="SPANISH",HBO Max 1
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1" tvg-logo="" group-title="SPANISH",HBO Max 1
 http://021b5dfbff98311045f497e4a6946b04.dramostimes.me/live/cra4.php?z=997&ui=275922&s=CT46HMNX5H&id=26649&h=580f7f7f5b38551e9f9e4c2b18eca27fcb80914b&n=1645956076&i=86.127.225.176&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Max 2" tvg-logo="" group-title="SPANISH",HBO Max 2
 http://021b5dfbff98311045f497e4a6946b04.dramostimes.me/live/cra4.php?z=997&ui=275922&s=CT46HMNX5H&id=26650&h=580f7f7f5b38551e9f9e4c2b18eca27fcb80914b&n=1645956076&i=86.127.225.176&f=ts
